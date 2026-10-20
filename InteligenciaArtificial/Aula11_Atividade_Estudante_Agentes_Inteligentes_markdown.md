@@ -1,8 +1,8 @@
 # Atividade sobre agentes inteligentes
 
-Aula 19/10/2026 | Professora Kadidja Valéria | Inteligência artificial
+Aula 20/10/2026 | Professora Kadidja Valéria | Inteligência artificial
 
-**Disciplina:** Inteligência Artificial, Linguagens Formais e Autômatos
+**Disciplina:** Linguagens Formais e Autômatos | ciência da Computação
 
 **Estudante:** [nome] | **Turma:** [turma]
 
